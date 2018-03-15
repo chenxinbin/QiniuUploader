@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QiniuUploader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccessKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">R6-Wzt4-Cv8oBe9A7YoBsqNnuXY-M03u</Value>
+    </Setting>
+    <Setting Name="SecretKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gSS6_yGjCgCt9VrLcMMMf4HYcNhx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

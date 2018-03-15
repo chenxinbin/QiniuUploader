@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\bin\Debug\QiniuUploader.exe.config
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\bin\Debug\QiniuUploader.exe
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\bin\Debug\QiniuUploader.pdb
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\bin\Debug\Qiniu.dll
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\obj\Debug\QiniuUploader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\obj\Debug\QiniuUploader.frmMain.resources
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\obj\Debug\QiniuUploader.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\obj\Debug\QiniuUploader.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\obj\Debug\QiniuUploader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\obj\Debug\QiniuUploader.exe
+C:\Users\Administrator\source\repos\QiniuUploader\QiniuUploader\obj\Debug\QiniuUploader.pdb
