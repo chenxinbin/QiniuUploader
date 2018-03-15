@@ -16,7 +16,3 @@
 
 使用方法：选择Bucket，选择文件，点击上传，上传结果和外链地址直接显示在日志框里。
 ![使用截图](http://p53rjof9a.bkt.clouddn.com/snap.png)
-
-
-
-
