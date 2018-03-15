@@ -1,16 +1,22 @@
 # QiniuUploader 七牛存储上传客户端
 
+## 我使用七牛的原因
+
 七牛对象存储拥有一定的免费份额（10G空间，10G流量），对个人站长甚至一些小企业还是有一定吸引力的。
 
 专业的工作，交给专业的公司去做，而且还是免费的。在网上发文（博客，CMS...）时，经常需要上传图片，然后在文章中引用。与其自己维护图片，占用流量带宽，还不如放到专门的对象储存上，我当前使用的是七牛（没怎么对比，可选的范围有七牛、又拍云、腾讯云，都有免费的配额）。
 
 虽然七牛控制台有个文件管理页面，但不是很方便；也从官网下载了QSunSync，但每次同步都需要新建任务；官网也有命令行，但貌似没法保存接口密钥... 所以动手写了这个客户端。
 
-使用方法很简单，选择Bucket，选择文件，点击上传，上传结果和外链地址直接显示在日志框里。
+## 本上传客户端的使用方法
 
-配置方法也很简单，在QiniuUploader.exe.config中写上自己的AccessKey和SecretKey。
+配置方法：在QiniuUploader.exe.config中写上自己的AccessKey和SecretKey。
+![配置方法](http://p53rjof9a.bkt.clouddn.com/qiniu_client_config.png)
+
+
+使用方法：选择Bucket，选择文件，点击上传，上传结果和外链地址直接显示在日志框里。
+![使用截图](http://p53rjof9a.bkt.clouddn.com/snap.png)
 
 
 
-[![QiniuUploader](http://p53rjof9a.bkt.clouddn.com/snap.png "QiniuUploader")]
 
