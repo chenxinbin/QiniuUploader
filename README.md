@@ -12,5 +12,5 @@
 
 
 
-[![QiniuUploader](http://p53rjof9a.bkt.clouddn.com/snap.png "QiniuUploader")]
+![QiniuUploader](http://p53rjof9a.bkt.clouddn.com/snap.png "QiniuUploader")
 
